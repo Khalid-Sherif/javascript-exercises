@@ -13,7 +13,7 @@ if (isDoorClosed == true && isDogOutside == false) {
 
 /*
   What's happening is, if the variable 'isDoorClosed' is set to true and
-  'isDogOutside' is set to false, the both conditions are true and the 'if'
+  'isDogOutside' is set to false, both conditions are true and the 'if'
   statement will be satisfied which will print 'The door is closed and the
   dog is inside'. If the values are inverted the both conditions will also
   be true and 'else if' will be satisfied which will print the 'the door is
